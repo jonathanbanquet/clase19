@@ -1,0 +1,18 @@
+body { font-family: Arial, sans-serif; }
+
+  .navegacion 
+  { display: flex; justify-content: space-around; padding: 10px; background-color: #f2f2f2; }
+  .navegacion a
+   { text-decoration: none; color: #333; }
+  .publicidad 
+  { background-color: #d9e3f0; padding: 20px; margin: 10px; }
+  .contenido
+   { display: flex; 
+    justify-content: space-between;
+ }
+  .video { 
+    width: 60%;
+ }
+  .anuncio {
+     width: 30%;
+     }

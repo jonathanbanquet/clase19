@@ -1,0 +1,25 @@
+.gridContainer {
+display: grid;
+grid-template-columns: 20% auto;
+grid-template-rows: 200px 400px 200px;
+
+
+}
+.gridItemUno{
+grid-column: 1/3;
+background-color: red;
+}
+.gridItem2{
+grid-row: 2/4;
+
+
+}
+
+
+.fondoAmarillo{
+    color: yellow;
+}
+.fondoVerde{
+    color: green;
+}
+
